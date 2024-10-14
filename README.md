@@ -60,6 +60,7 @@
 
 ## Output:
 ![Screenshot 2024-10-14 235002](https://github.com/user-attachments/assets/251c280d-5977-43fb-bc0a-55018323aa9c)
+![Screenshot 2024-10-15 000155](https://github.com/user-attachments/assets/8eaa23c5-a28b-4907-b305-eb717ef49d76)
 
 
 ### Name: 
