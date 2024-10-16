@@ -63,6 +63,7 @@
 ![Screenshot 2024-10-15 000155](https://github.com/user-attachments/assets/8eaa23c5-a28b-4907-b305-eb717ef49d76)
 ![Screenshot 2024-10-16 222141](https://github.com/user-attachments/assets/bb04bab9-99d0-4e4d-b9f8-b9e4b45fa465)
 ![Screenshot 2024-10-16 221937](https://github.com/user-attachments/assets/6c3c625a-81d4-4592-9764-0310d72d356b)
+![Screenshot 2024-10-14 230413](https://github.com/user-attachments/assets/17ee0936-43af-4480-a5e4-5a4bd8562d64)
 
 
 ### Name: 
