@@ -49,7 +49,7 @@
 
 ## OUTPUT
 
-git commit -m "Your commit message here" -q
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
